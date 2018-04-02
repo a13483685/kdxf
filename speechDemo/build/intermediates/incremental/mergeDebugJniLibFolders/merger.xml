@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\2018\lessonCode\MyApplication\speechDemo\libs"><file name="armeabi/libmsc.so" path="E:\2018\lessonCode\MyApplication\speechDemo\libs\armeabi\libmsc.so"/><file name="Msc.jar" path="E:\2018\lessonCode\MyApplication\speechDemo\libs\Msc.jar"/><file name="Sunflower.jar" path="E:\2018\lessonCode\MyApplication\speechDemo\libs\Sunflower.jar"/></source></dataSet><dataSet config="debug"><source path="E:\2018\lessonCode\MyApplication\speechDemo\src\debug\jniLibs"/></dataSet></merger>
